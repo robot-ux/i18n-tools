@@ -1,0 +1,28 @@
+{
+  "footer.explore.title": "Explore",
+  "footer-link-trust-wallet": "Trust Wallet",
+  "footer-link-binance-chain-wallet": "Binance Wallet",
+  "footer-link-dapp-bay": "DappBay",
+  "footer-link-btokens": "BTokens",
+
+  "footer.build.title": "Build",
+  "footer-link-developer-portal": "Developer Portal",
+  "footer-link-sdks": "SDKs",
+  "footer-link-whitepaper": "Whitepaper",
+  "footer-link-BCW-Integration": "Binance Wallet Integration",
+  "footer-link-tech-forum": "Technology Forum",
+
+  "footer.participate.title": "Participate",
+  "footer-link-mvb": "MVB Program",
+  "footer-link-accelerator": "Accelerator Fund",
+  "footer-link-BUIDL": "BUIDL Reward Leaderboad",
+  "footer-link-hackathon": "Hackathon",
+  "footer-link-martian-program": "Martian Program",
+  "footer-link-bug-bounty": "Bug Bounty",
+  "footer-link-student-ambassador": "Student Ambassador",
+
+  "footer.about.title": "About",
+  "footer-link-privacy-policy": "Privacy Policy",
+  "footer-link-terms-of-use": "Terms of Use",
+  "footer-link-careers": "Careers"
+}
